@@ -15,10 +15,12 @@
 
 | Nome Completo | RM | Responsabilidade Principal |
 |---|:---:|---|
-| **Pedro Henrique Souza Barreto** | **564437** | Documentação, Estrutura de Tipos e Validações |
 | **Filippo Picino Mendez** | **565994** | Arquitetura Cross-Platform, Telas e Componentização |
-| **Pam Mitchell Barbosa Durham** | **562635** | Persistência com AsyncStorage e Fluxo de Ocorrências |
+| **Gabriel do Vale Vergueiro** | **564439** | Interface do Usuário, Navegação e Estilização |
 | **Gustavo Henrique Rodovalho Silva** | **563695** | Roteiro de Demonstração, Testes de Usabilidade e Vídeo |
+| **Isabella Piñeiro Santana** | **562779** | Regras de Negócio, Classificação de Risco e Validação |
+| **Pam Mitchell Barbosa Durham** | **562635** | Persistência com AsyncStorage e Fluxo de Ocorrências |
+| **Pedro Henrique Souza Barreto** | **564437** | Documentação Técnica, Estrutura de Tipos e Contratos |
 
 🔗 **Link do Repositório GitHub:** [https://github.com/Filippohh/CROSS-PLATAFORM-APPLICATION-DEVELOPMENT](https://github.com/Filippohh/CROSS-PLATAFORM-APPLICATION-DEVELOPMENT)  
 📺 **Link do Vídeo no YouTube (Não Listado):** [https://youtu.be/SEU_LINK_AQUI](https://youtu.be/SEU_LINK_AQUI) *(substitua pelo link após a gravação)*
@@ -254,7 +256,7 @@ ROTEIRO DE GRAVAÇÃO DO VÍDEO (DURAÇÃO MÁXIMA: 5 MINUTOS)
 
 [00:00 - 00:45] APRESENTAÇÃO DO GRUPO E DO README
 • Abra a tela no navegador exibindo este README no GitHub.
-• Apresente os integrantes: Pedro Barreto, Filippo Picino, Pam Durham e Gustavo Rodovalho.
+• Apresente os integrantes: Filippo Picino, Gabriel Vergueiro, Gustavo Rodovalho, Isabella Santana, Pam Durham e Pedro Barreto.
 • Explique brevemente o problema:
   "O aplicativo da Motiva foi desenvolvido para resolver o desafio de registro ágil de
   ocorrências em rodovias e pátios de custódia veicular. Ele substitui processos manuais
